@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-# Curriculum Vitae <a href="/files/Zetao_Fei_CV.pdf" target="_blank">[PDF Version]</a>
+# Curriculum Vitae <a href="/files/CV_Zetao_FEI.pdf" target="_blank">[PDF Version]</a>
 {% include base_path %}
 
 Education
