@@ -3,14 +3,12 @@
 # ==============================
 title: "Zetao Fei"
 tagline: "Postdoctoral Fellow at École Polytechnique"
-email: "your-email@example.com"
+email: "zetao.fei@polytechnique.edu"
 author: "Zetao Fei"
 description: "Research interests: inverse problems, imaging, wave physics"
 baseurl: "" # the subpath of your site, e.g. /academicpages
-url: "https://yourusername.github.io" # your GitHub Pages URL
-twitter_username: "your_twitter"
-github_username: "yourusername"
-linkedin_username: "your-linkedin"
+url: "https://fei-zetao.github.io" # your GitHub Pages URL
+
 
 # ==============================
 # Theme settings
