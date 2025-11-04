@@ -20,4 +20,5 @@ My research interests include inverse problems and imaging, wave physics, and si
 Contact
 ======
 
-Email: zetao[dot]fei[at]polytechnique[dot]edu.
+* Email: zetao [dot] fei [at] polytechnique [dot] edu.
+* Address: Centre de Mathématiques Appliquées, École Polytechnique, Route de Saclay, 91128, Palaiseau Cedex, France
