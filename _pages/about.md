@@ -14,7 +14,7 @@ Previously, I obtained my Ph.D. in Mathematics from the Hong Kong University of 
 My research interests include inverse problems and imaging, wave physics, and signal processing.
 <br>
 
-> *“Suis ton étoile.”*
+> *“Le cœur a ses raisons que la raison ne connaît point.”*
 
 
 A data-driven personal website
