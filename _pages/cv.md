@@ -30,4 +30,6 @@ Honors
 * Best TA Award for Din-Yu Hsieh Teaching Awards, Department of Mathematics, HKUST, 2021-22.
 * Best TA Award for Din-Yu Hsieh Teaching Awards, Department of Mathematics, HKUST, 2019-20.
 
-
+Academic Service
+======
+* Vice-president of HKUST SIAM Student Chapter, 2023-2025.
