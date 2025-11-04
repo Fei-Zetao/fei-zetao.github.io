@@ -13,6 +13,10 @@ Previously, I obtained my Ph.D. in Mathematics from the Hong Kong University of 
 
 My research interests include inverse problems and imaging, wave physics, and signal processing.
 
+<br>
+
+> *“Tout est fait d'amour.”*
+
 
 A data-driven personal website
 ======
