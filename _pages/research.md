@@ -18,8 +18,10 @@ and Stability Analysis”, preprint
 
 
 **Wave-based imaging problems**
+* Zetao Fei and Josselin Garnier, “Passive Imaging with Ambient
+Noise Under Wave Speed Mismatch: Mathematical Analysis and Wave Speed Estimation”, preprint
 * Ongoing Project: On the medium noise for ultrasound imaging
-* Ongoing Project: Passive Imaging Under Wave Speed Mismatch: Mathematical Analysis and Background Velocity Estimation”.
+
 
 **Miscellaneous**
 * Ongoing Project: Algorithms for Tracking Organelles
