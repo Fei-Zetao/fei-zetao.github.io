@@ -26,7 +26,7 @@ Noise Under Wave Speed Mismatch: Mathematical Analysis and Wave Speed Estimation
 
 
 **Bio-imaging**
-* Xinyu Liu*, Zetao Fei*, Ka Hei Ho*, Chun Pu Wu*, Jiamin Zeng, Yandong Yin, Hai Zhang,  Hyokeun Park, ``Multiple particle tracking via velocity filtering (MPT-vVF): a spatio-temporal filtering framework for robust tracking organelles in living cells", preprint.
+* Xinyu Liu#, Zetao Fei#, Ka Hei Ho#, Chun Pu Wu#, Jiamin Zeng, Yandong Yin, Hai Zhang,  Hyokeun Park, ``Multiple particle tracking via velocity filtering (MPT-vVF): a spatio-temporal filtering framework for robust tracking organelles in living cells", preprint.
 
 
 
